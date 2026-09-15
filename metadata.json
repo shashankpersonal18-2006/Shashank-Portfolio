@@ -1,0 +1,8 @@
+{
+  "name": "Remix Shashank S Portfolio",
+  "description": "Web-based portfolio dashboard for Shashank S displaying projects, technical skills, certifications, internships, Excel database backend management, and Gmail contact delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
